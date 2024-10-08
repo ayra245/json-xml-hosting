@@ -1,0 +1,21 @@
+{
+    "Catalog": {
+        "Product":[
+            {
+                "ProductID": "101",
+                "Name": "SmartPhone",
+                "Category": "Electornics",
+                "Price": 299.99,
+                "Stock": 25
+            },
+            {
+                "ProductID": "102",
+                "Name": "Laptop",
+                "Category": "Electornics",
+                "Price": 399.99,
+                "Stock": 30
+            }
+                
+        ]
+    }
+}
