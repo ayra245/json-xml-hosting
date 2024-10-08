@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<Catalog>
+    <Product ProductID="101">
+        <Name>SmartPhone</Name>
+        <Category>Electronics</Category>
+        <Price>299.99</Price>
+        <Stock>25</Stock>
+    </Product>
+    <Product ProductID = "102">
+        <Name>Laptop</Name>
+        <Category>Electronics</Category>
+        <Price>399.99</Price>
+        <Stock>30</Stock>
+    </Product>
+</Catalog>
+        
